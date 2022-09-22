@@ -1,0 +1,35 @@
+body{
+  width: 100%;
+}
+
+.c1{
+  height: 70px;
+  width: 49%;
+  background: #293B52;
+  float: left;
+  margin: 3px;
+}
+.c2{
+  height: 70px;
+  width: 49%;
+  background: #293B52;
+  float: right;
+  margin: 3px;
+
+
+}
+.c3{
+  height: 70px;
+  width: 49%;
+  background: #293B52;
+  float: left;
+  margin: 3px;
+}
+.c4{
+  height: 70px;
+  width: 49%;
+  background: #293B52;
+  float: right;
+  margin: 3px;
+
+}
